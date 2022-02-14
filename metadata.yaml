@@ -1,0 +1,79 @@
+_repo: Samtliche-Werke-13-Politische-Schriften_67241
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Mérejkowsky, Dmitry de
+    - Merejkowski, Dmitri
+    - Merejkowsky, Dmitry de
+    - Mereschkowski, Dmitri
+    - Mérejkowski, Dmitri
+    - Мережковский, Дмитрий Сергеевич
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: https://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+  translator:
+    agent_name: Rahsin, E. K.
+    aliases:
+    - Rahsin, Less
+    - Разин, Э. К.
+    birthdate: 1886
+    deathdate: 1966
+    gutenberg_agent_id: '49851'
+    url: http://www.gutenberg.org/2009/agents/49851
+    wikipedia: https://de.wikipedia.org/wiki/Elisabeth_Kaerrick
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fédor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoevsky, Fyodor
+    - Dostoyevsky, Fyodor Mikhailovich
+    - Dostoievski, Fiodor
+    - Dostoyevsky, F. M.
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+  editor:
+    agent_name: Moeller van den Bruck, Arthur
+    aliases:
+    - Den Bruck, Arthur Moeller van
+    - Bruck, Arthur Moeller van den
+    - Van den Bruck, Arthur Moeller
+    birthdate: 1876
+    deathdate: 1925
+    gutenberg_agent_id: '49850'
+    url: http://www.gutenberg.org/2009/agents/49850
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+    - https://en.wikipedia.org/wiki/Arthur_Moeller_van_den_Bruck
+description: ''
+gutenberg_issued: '2022-01-24'
+identifiers:
+  gutenberg: '67241'
+language: de
+pgterms:marc904: https://hdl.handle.net/2027/njp.32101056055138
+pgterms:marc905: 20180111012922dostojewsk
+pgterms:marc906: '1917'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: Germany :Piper,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dostoyevsky, Fyodor, 1821-1881 -- Political and social views'
+- !lcc 'PG'
+- !lcsh 'World politics -- To 1900'
+- GITenberg
+title: 'Sämtliche Werke 13: Politische Schriften'
+url: http://www.gutenberg.org/ebooks/67241
